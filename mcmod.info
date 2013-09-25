@@ -1,0 +1,20 @@
+[
+{
+  "modid": "dane",
+  "name": "Dane",
+  "description": "Dane's pratice mod.",
+  "version": "0.0.1 dev",
+  "url": "www.github.com/bevillmen233/dane",
+  "updateUrl": "",
+  "authorList": [
+    "bevillmen233"
+  ],
+  "credits": "pahimar",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
